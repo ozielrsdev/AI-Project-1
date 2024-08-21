@@ -63,7 +63,7 @@ header {
 
 
 .btn {
-  width: 20%;
+  min-width: 20%;
   background-color: #0066FF;
   color: #fff;
   padding: 10px 20px;
@@ -113,6 +113,9 @@ textarea {
   margin-bottom: 20px;
 }
 
+#result{
+  margin-top: 15px;
+}
 
 .sobre-section {
   padding: 50px 20px;

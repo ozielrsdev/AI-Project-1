@@ -14,7 +14,7 @@ FeelAI é uma aplicação web que utiliza inteligência artificial para realizar
 - Uma chave de API (access token) válida da Hugging Face, necessária para autenticação e uso do modelo de análise de sentimentos.
 
 ## 🔑 Como Obter um Access Token da Hugging Face
-1. Acesse o site da <a href="https://huggingface.co/">**Hugging Face**</a>.
+1. Acesse o site da <a href="https://huggingface.co/" target="_blank">**Hugging Face**</a>.
 2. Crie uma conta ou faça login.
 3. Navegue até as configurações da conta e gere um novo token de acesso.
 4. Copie o token gerado para usar na aplicação FeelAI.
@@ -42,7 +42,7 @@ export const APIKEY = 'seu_access_token_aqui';
 **4. Executar a aplicação:**
 
 - Abra o arquivo **index.html** diretamente no seu navegador, ou
-Utilize um servidor HTTP local para rodar a aplicação, como o **<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>** do Visual Studio Code.
+Utilize um servidor HTTP local para rodar a aplicação, como o **<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Live Server</a>** do Visual Studio Code.
 
 ## 📝 Uso
 1. Abra a aplicação no navegador.

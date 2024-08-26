@@ -33,9 +33,9 @@ cd AI-Project-1
 
 **3.Configurar a API Key:**
 
-- Crie um arquivo **api_key.js** na raiz do projeto com o seguinte conteúdo:
+- Coloque o **ACCESS TOKEN** da **Hugging Face API** no arquivo **main.js**:
 ````javascript
-export const APIKEY = 'seu_access_token_aqui';
+const APIKEY = 'seu_access_token_aqui';
 ````
 - Substitua **'seu_access_token_aqui'** pelo token de acesso que você obteve da Hugging Face.
 

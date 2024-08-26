@@ -49,5 +49,12 @@ Utilize um servidor HTTP local para rodar a aplicação, como o **<a href="https
 2. Insira o texto que deseja analisar na área de texto.
 3. Clique no botão "Analisar Sentimento".
 4. Veja os resultados, incluindo a porcentagem de cada sentimento identificado.
+
+## Exemplos
+<div style="display: flex; flex-direction: row; width: 100%">
+  <img src="https://github.com/user-attachments/assets/d3e6e859-973e-440e-aa5c-f40005c49a7a" alt="Imagem 1" >
+  <img src="https://github.com/user-attachments/assets/f4ac0827-c92b-4510-a0fa-3f0e029734f3" alt="FeelAI">
+</div>
+
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Antes de contribuir, por favor, certifique-se de ler as diretrizes de contribuição do projeto.

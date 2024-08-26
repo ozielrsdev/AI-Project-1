@@ -1,4 +1,4 @@
-const APIKEY = "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";
+const APIKEY = "";
 const textInput = document.getElementById("textInput");
 const btnInput = document.getElementsByClassName("btn")[0];
 const resultText = document.getElementById("resultText");

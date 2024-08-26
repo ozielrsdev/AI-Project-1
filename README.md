@@ -57,4 +57,4 @@ Utilize um servidor HTTP local para rodar a aplicação, como o **<a href="https
 </div>
 
 ## 🤝 Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Antes de contribuir, por favor, certifique-se de ler as diretrizes de contribuição do projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
